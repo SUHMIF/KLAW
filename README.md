@@ -7,11 +7,14 @@ I present my first project at which point I had functioned as the sole gameplay 
 My micro-game is played by using a keyboard’s ARROW keys for positioning the claw together with holding down SPACE to close the claw around items to pick them up. You get 60 seconds to grab as much as possible and drop the items into their specific bin to gain points.
 Furthermore, the sprites were also developed by me and were influenced by The Claw Machine mini-game from Welcome to Willy’s Fun Park! by Hervé Ast.
 
-<img src="Preview%20Image/KLAW%20snapshot.jpg" width="512" height="384" >
-Gameplay snapshot
+<img src="Preview%20Image/KLAW%20Gameplay%20GIF.gif" width="512" height="384" >
+Gameplay gif
 
 <img src="Preview%20Image/KLAW%20Objects%20snapshot.jpg" width="512" height="384" >
 Sprite explanation
 
 <img src="Preview%20Image/KLAW%20Activity%20Diagram.jpg" width="512" height="384" >
 Activity diagram
+
+<img src="Preview%20Image/KLAW%20snapshot.jpg" width="512" height="384" >
+Gameplay snapshot
