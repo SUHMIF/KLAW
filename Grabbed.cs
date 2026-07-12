@@ -21,7 +21,7 @@ public class Grabbed : MonoBehaviour
         }    
     }
 
-    private void changeLayer(GameObject obj)
+    private void ChangeLayer(GameObject obj)
     {
         grabbedObject = obj;
 
