@@ -73,7 +73,7 @@ public class KLAW : MonoBehaviour
     }
 
     //-----------------------------------Object Spawner----------------------------
-    private IEnumerator instantiateObject()
+    private IEnumerator InstantiateObject()
     {
         // Picks Random Object Through Correlating Index Number
         objectNumber = Random.Range(0, objectArray.Length);
